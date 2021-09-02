@@ -3,7 +3,7 @@ The project was to webscrape about 500 different lyrics from multiple artists an
 
 
 
-#Results 
+Results 
 -----------------------------------
 1b) The coefficient for year is .00274072 or .274% which tells us, since 1950 to 2020, each year the word
 count per song has increased by .274% each year as new songs are being released by many artists.
