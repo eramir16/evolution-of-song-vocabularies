@@ -5,8 +5,8 @@ The project was to webscrape about 500 different lyrics from multiple artists an
 
 Results 
 -----------------------------------
-1b) The coefficient for year is .00274072 or .274% which tells us, since 1950 to 2020, each year the word
-count per song has increased by .274% each year as new songs are being released by many artists.
+1b) The coefficient for year is .00274072 or .274% which tells us, since 1950 to 2020, each year the word 
+count per song has increased by .274% each year as new songs are being released by many artists. \n
 2b) The coefficient for year is .00295444 or .295% which tells, each year the number of unique words
 per song increased by .295% each year. Artists have begun to use more unique words throughout their
 songs.
